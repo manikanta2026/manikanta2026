@@ -11,5 +11,5 @@
 ![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta2026&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/manikanta-gade-99bb27227/)
+- Email: gade.manikanta.42@gmail.com
